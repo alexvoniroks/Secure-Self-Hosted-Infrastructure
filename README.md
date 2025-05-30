@@ -10,7 +10,7 @@ The setup focuses on separation of concerns, hardened security, and ease of acce
 
 ## Architecture
 
-![Architecture Diagram](./architecture.jpg)
+![Architecture Diagram](./architecture.png)
 
 ### Components
 
